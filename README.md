@@ -56,9 +56,9 @@ building **end-to-end applications** that combine intelligent models with real-w
 
 ## 📫 Contact
 
-- GitHub: https://github.com/<your-username>
-- Email: <your-email>
-- LinkedIn: <optional>
+- GitHub: https://github.com/abhishek281203
+- Email: atundage28@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abhishek-undage
 
 ---
 
