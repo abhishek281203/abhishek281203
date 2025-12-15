@@ -18,8 +18,8 @@ building **end-to-end applications** that combine intelligent models with real-w
 - React, HTML, CSS
 
 **Backend**
-- Node.js, JavaScript
-- Flask APIs
+- Node.js, JavaScript, Flask
+- REST APIs
 
 **AI / ML**
 - Scikit-learn, TensorFlow, PyTorch
